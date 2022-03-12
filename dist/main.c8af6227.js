@@ -138,4 +138,4 @@ setTimeout(function () {
     style.innerHTML = '\n    body{\n        color: red;\n    }\n    ';
 }, 3000);
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=dist/main.c8af6227.map
+//# sourceMappingURL=main.c8af6227.map
